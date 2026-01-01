@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Balatro",
+      "description": "A roguelike deck-builder that twists poker rules with powerful Jokers and wild synergies, letting players craft clever hands and take strategic risks.",
+ "platform":{ "PC":1,"PSX":0,"PS2":0,"PS3":0,"PS4":0,"PS5":0,"PSVita":0,"Nintendo Switch":0,"Nintendo Switch 2":0,"XBOX":0,"Xbox 360":0,"Xbox One":0,"Android":0,"iPhone":0 },
+ "store":{ "Steam":1,"GOG":0,"Epic Games Store":0,"Itch.IO":0,"Play Store":0,"AppStore":0,"PSN":0,"Microsoft Store":0,"Nintendo eShop":0 },
+ "release":{ "Digital":1,"Physical":0 }
+ },
+    {
+      "id": 2,
+      "name": "Game Dev Tycoon",
+      "description": "A simulation game where players manage a video game development company. Design games, research new technologies, hire staff, and make strategic business decisions to become the ultimate game development mogul.",
+ "platform":{ "PC":1,"PSX":0,"PS2":0,"PS3":0,"PS4":0,"PS5":0,"PSVita":0,"Nintendo Switch":0,"Nintendo Switch 2":0,"XBOX":0,"Xbox 360":0,"Xbox One":0,"Android":0,"iPhone":0 },
+ "store":{ "Steam":1,"GOG":0,"Epic Games Store":0,"Itch.IO":0,"Play Store":0,"AppStore":0,"PSN":0,"Microsoft Store":0,"Nintendo eShop":0 },
+ "release":{ "Digital":1,"Physical":0 }
+ },
+    {
+      "id": 3,
+      "name": "Stardew Valley",
+      "description": "Stardew Valley is a relaxing farming and life simulator. Plant crops, raise animals, mine for resources, build relationships with townspeople, and explore secrets in a charming pixel world full of activities and adventure.",
+ "platform":{ "PC":1,"PSX":0,"PS2":0,"PS3":0,"PS4":0,"PS5":0,"PSVita":1,"Nintendo Switch":0,"Nintendo Switch 2":0,"XBOX":0,"Xbox 360":0,"Xbox One":0,"Android":1,"iPhone":1 },
+ "store":{ "Steam":1,"GOG":0,"Epic Games Store":0,"Itch.IO":0,"Play Store":1,"AppStore":1,"PSN":1,"Microsoft Store":0,"Nintendo eShop":0 },
+ "release":{ "Digital":1,"Physical":1 }
+ }
+  ]
+}
